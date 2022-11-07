@@ -1,1 +1,1 @@
-Un notebook donde explica que es Jupyeter notebook y un ejemplo
+Un notebook donde explica que es Jupyter notebook y un ejemplo
